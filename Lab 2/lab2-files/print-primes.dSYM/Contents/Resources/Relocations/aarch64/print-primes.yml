@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shazi/Desktop/KTH/Bachelor/Year 2/Period 1/IS1200 Computer Hardware Engineering/Labs/VM/Lab 2/lab2-files/print-primes'
+relocations:     []
+...
