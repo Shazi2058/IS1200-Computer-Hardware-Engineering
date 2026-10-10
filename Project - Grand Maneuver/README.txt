@@ -2,7 +2,7 @@
                     			GRAND MANEUVER
 ================================================================================
 
-DEVELOPERS / TEAM MEMBERs
+DEVELOPERS / TEAM MEMBERS
 -------------------------
 - Muhammad Shahwaiz Abbasi
 - Samat Chowdhury
